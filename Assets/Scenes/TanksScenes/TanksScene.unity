@@ -361,7 +361,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _panelGameOver: {fileID: 1510070449}
-  _enemyManager: {fileID: 0}
+  _enemyManager: {fileID: 2977989072116014344}
 --- !u!1 &259933628
 GameObject:
   m_ObjectHideFlags: 0
@@ -1491,6 +1491,17 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9bd70381189968c458820cdf69f0a882, type: 3}
+--- !u!114 &2977989072116014344 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8556006922104595113, guid: 9bd70381189968c458820cdf69f0a882, type: 3}
+  m_PrefabInstance: {fileID: 2147928146778702648}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a4107714a70a324d803128ec4e3c325, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &5504866753105179998
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1604,11 +1615,11 @@ SceneRoots:
   - {fileID: 1482681183}
   - {fileID: 547595261}
   - {fileID: 260611374}
-  - {fileID: 5504866753105179998}
   - {fileID: 259933631}
+  - {fileID: 5504866753105179998}
+  - {fileID: 2147928146778702648}
   - {fileID: 66691749}
   - {fileID: 782696705}
   - {fileID: 84072543}
   - {fileID: 216159882}
   - {fileID: 76724622}
-  - {fileID: 2147928146778702648}
